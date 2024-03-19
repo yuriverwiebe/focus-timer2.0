@@ -1,12 +1,17 @@
-<h1 align="center"> <strong>Desafio: Focus Timer 2.0</strong> </h1>
+<h1 align="center"> Projeto Focus Timer </h1>
 
 <p align="center">
-Projeto realizado como desafio para criação de Pomodoro Timer, no qual o usuário pode além de usar o contador, também escutar músicas relaxantes.<br/>
+Projeto criado no curso Explorer da RocketSeat.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -55,10 +60,12 @@ O desafio foi proposto no curso Explorer da Rocketseat. A ideia é aplicar o que
 - Padrão Factory ( Organização código)
 - Manipulação de aúdio
 
------
-<p align="center">Feito por: <strong>Guilherme Batista</strong></p>
+<br>
 
-<p align="center"><a 
-href="https://guiogigo.github.io/Rocketseat-Desafio-FocusTimer-2.0/">
-<strong>Visite o projeto online</strong>
-</a></p>
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Yuri Verwiebe 🌊
